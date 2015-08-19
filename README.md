@@ -9,4 +9,4 @@ Data visualization is a simple bar chart, I'll make that a bit fancier using d3 
 Uses the "threex" and "aruco" libraries which have some BSD and  OpenCV licensed tech.
 Uses "three.js" libraries 
 
-2015-08-19-Augmented.jpg
+Huge shout-out to jeromeetienne for such a great example to follow: https://github.com/jeromeetienne/threex.webar
